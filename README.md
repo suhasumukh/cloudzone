@@ -1,7 +1,7 @@
 # CloudZone
 Company 
 
-*CloudZone* 
+ 
 CloudZone is a Bangalore based non-profit organization run/handled by youth. CloudZone aims to empower and enable the global youth community to create a sustainable future.
 
 Check our Global Website:-
