@@ -16,4 +16,4 @@ https://dev.cloudzone.repl.co
 CloudZone Is Licensed under MIT License ⚖️⚖️
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=suhasumukh&theme=highcontrast&show_icons=true&count_private=true)
+
