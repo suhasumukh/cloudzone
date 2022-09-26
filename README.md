@@ -1,4 +1,4 @@
-# cloudzone
+# CloudZone
 Company 
 
 *CloudZone* 
