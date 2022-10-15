@@ -2,7 +2,7 @@
 Company 
 🏢🏢🏢
  
-CloudZone is a Bangalore based non-profit organization run/handled by youth. CloudZone aims to empower and enable the global youth community to create a sustainable future.
+CloudZone is a Bangalore based startup run/handled by youth. CloudZone aims to empower and enable the global youth community to create a sustainable future.
 
 Check our Global Website:-
 https://cloudzone.suhassumukh.repl.co
@@ -13,7 +13,7 @@ Check CloudZone For Buisness Website:-
 https://dev.cloudzone.repl.co
 
 
-CloudZone Is Licensed under MIT License ⚖️⚖️
+CloudZone Is Licensed under Apache License ⚖️⚖️
 
 
 
