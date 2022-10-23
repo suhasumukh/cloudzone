@@ -2,7 +2,7 @@
 Company 
 🏢🏢🏢
  
-CloudZone is a Bangalore based startup run/handled by youth. CloudZone aims to empower and enable the global youth community to create a sustainable future.
+CloudZone is a Bangalore based  Artificial intelligence company. CloudZone aims at empowering business through cloud technology and also providing entertainment to families.
 
 Check our Global Website:-
 https://cloudzone.suhassumukh.repl.co
